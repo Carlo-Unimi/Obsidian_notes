@@ -84,3 +84,42 @@ Gli spazi colore uniformi, ovvero che "appallottolano" queste ellissi, sono il *
 - **Saturation**: misura della purezza del colore
 - **Value** (intensity): misura della luminosità del colore
 ![[Pasted image 20250930153736.png]]
+## Formazione dell'immagine
+I fattori che influenzano l'acquisizione di un'immagine sono:
+- **proprietà della fonte di luce** (irradianza) -> caratterizzata dalle componenti *x,y,z* e la sua lunghezza d'onda *lambda*
+- **proprietà della superficie** (riflettanza) -> ogni punto della scena ha la sua funzione di riflettanza particolare *r(x,y,z,lambda)*
+- **luce riflessa** -> la luce che effettivamente arriva alla camera, combinata tramite moltiplicazione con luce irradiata e luce riflessa dalla scena *c(x,y,z,lambda)*
+- **proiezione prospettica** -> la lente della camera fa mettere a fuoco il soggetto interessato, quindi fa sparire la "profondità" dell'immagine (la *z* si appiattisce). $c_p(x',y',lambda)=P(c(x,y,z,lambda))$
+- **funzione di sensibilità per ogni sensore** -> per ogni camera, abbiamo 3 canali che caratterizzano un singolo pixel.
+# Digitalizzazione dell'immagine
+Come primo step, noi abbiamo un'immagine espressa in *dominio* e *codominio* espressi nel continuo ($R^2$). I computer non possono lavorare con informazioni nel continuo, quindi si ricorre alla **discretizzazione** con le tecniche del *sampling* e *quantizzazione*.
+### Sampling spaziale
+> Possiamo pensare il **sampling spaziale** come una moltiplicazione tra un segnale continuo e un *comb filter*.
+
+Questo è un sampling su una sola dimensione, è applicabile su entrambe le dimensioni con un $comb(x',y')$: si ottiene l'immagine samplata con $f_c(x',y')*comb(x',y')$. Da qui otteniamo l'espressione che ci interessa $f(x'_i,y'_j)=f(i,j)$.
+### Quantizzazione
+> Discretizzazione dei valori di $f(i,J)$ in P livelli.
+
+![[Pasted image 20251007144548.png]]
+La quantizzazione regola il numero di tipologie di grigio in un'immagine, a partire da un "bianco e nero", fino alle più fluide transizioni tra colori.
+### Rappresentare un'immagine
+La struttura dati per rappresentare un'immagine è semplicemente un array 2D di valori. I valori in questione possono essere di ogni tipologia di dati in questi: bit, byte, int, float, double, etc..
+### Pixel
+> È il singolo valore in una griglia di campionamento di un'immagine.
+
+Esso non corrisponde ad un punto, quanto più ad un'area che sia la più piccola possibile e trattabile allo stesso tempo.
+#### Interpolazione 'Nearest-Neighbor'
+> Associare ad ogni pixel in output, il valore del pixel più vicino ad esso nell'immagine di partenza.
+
+Dato "n" il fattore di zoom, si deve calcolare qual è effettivamente il pixel più vicino a quello in output. Per fare ciò, divido le coordinate di arrivo per il fattore di zoom e arrotondo il risultato; facendo ciò posso trovare nell'immagine di partenza il pixel da cui prelevare le informazioni.
+$O(x_o,y_o)=I(round(x_I),round(t_I))$
+#### Interpolazione Bilineare
+Applica 2 volte l'**interpolazione lineare**, prima sulle righe e poi sulle colonne. Essa considera i 4 pixel vicini a quello che poi verrà messo nell'immagine in output.
+#### Interpolazione cubica
+Vengono utilizzate delle interpolazioni cubiche, quindi i pixel coinvolti sono 16. È un metodo più pesante dal punto di vista computazionale, ma è molto più preciso di un'interpolazione lineare.
+## Trasformazioni geometriche
+> Le **trasformazioni geometriche** modificano lo spazio e le relazioni tra i pixel in un'immagine.
+
+Si svolge in 2 step, ovvero la *trasformazione spaziale delle coordinate* e successivamente l'*assegnazione dei valori alla griglia precedentemente creata*.
+
+*vedi slide M1_03_img_acquisition pag 44-56*
