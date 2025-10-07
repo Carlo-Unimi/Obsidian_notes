@@ -1,0 +1,4 @@
+ # Ignora tutte le cartelle "resources" ".trash" ".obsidian" in qualsiasi sottocartella
+**/resources/
+**/.trash/
+**/.obsidian/

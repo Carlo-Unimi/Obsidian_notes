@@ -1,0 +1,21 @@
+ # Principi di diritto d'autore
+Nell'ordinamento giuridico italiano le creazioni intellettuali sono riconducibili a due distinte categorie:
+- **invenzioni industriali**: tutelate dal *brevetto*
+- **opere dell'ingegno**: tutelate attraverso il *diritto d'autore*
+C'è una fondamentale differenza tra il *diritto d'autore* e il *brevetto*: il primo protegge la ===forma espressiva==, mentre il brevetto protegge un'===idea===. La forma espressiva è la **modalità** in cui l'autore ha deciso di rappresentare un sentimento in un opera, mentre il brevetto protegge solo l'idea (*esempio: chiunque può fare un romanzo sul vietnam, ma nessuno ha il diritto di scriverlo uguale a come lo farei io.. per esempio in chiave ironica*). Ovviamente, di contro parte, il brevetto protegge l'idea che sta dietro a qualcosa, che è molto più "forte" rispetto al diritto d'autore: non è replicabile per intero l'invenzione.
+### La protezione del software
+Negli anni '90 ci si pose la domanda di dove porre il **software**, al fine di proteggerlo con il diritto d'autore o con un brevetto: fu deciso di porlo all'interno del *diritto d'autore*.
+- **Il problema di proteggere il software con il diritto d'autore** è che, come detto prima, non viene protetta l'idea. Per un certo programma è più importante l'idea, rispetto all'effettiva difficoltà per creare un software; tuttavia non viene protetto il valore più importante.
+- **Il problema di proteggere il software con il brevetto** è che al giorno d'oggi esisterebbe una sola tipologia di programma per qualsiasi cosa (*un solo programma per scrivere, etc..*). Il punto del brevetto è il capitale dietro ad una certa idea.
+La legge sul diritto d'autore è la **633 del 1941**, e anche se sembra una norma molto vecchia è continuamente aggiornata.
+## Acquisizione dei diritti d'autore
+> Il **titolo originario** dell'acquisto del diritto di autore è costituito dalla *creazione dell'opera*, quale particolare espressione del lavoro intellettuale.
+
+Questo tema è molto semplice quando l'autore è uno solo, come per esempio dei romanzi, la questione è diversa per dei brani musicali che nascono per conto di più persone. Si distingue la questione in due casi:
+- **opera in collaborazione**: un'opera nella quale è impossibile distinguere in maniera precisa l'apporto di ciascuna persona. Le parti indivise si presumono di valore eguale, salvo la prova per iscritto di diverso accordo. Si divide il ricavato dell'opera e le decisioni che coinvolgono le sorti di quell'opera (caricamento su piattaforme, creazione di vinili, etc..).
+- **opera collettiva**: è un'opera costituita da tante singole opere ognuna delle quali ha dei diritti d'autore (*per esempio un blue ray che parla del concerto di Woodstock del 69, quindi diritti sui filmati e sulla musica etc..*); colui che crea l'opera collettiva non avrà i diritti anche delle opere al suo interno (*nell'esempio precedente non avrò i diritti delle canzoni di Jimi Hendrix*). In generale l'autore è colui che organizza e dirige la creazione, come un DJ che sceglie i brani da riprodurre durante una serata.
+Tutti gli atti che riguardano il diritto d'autore devono essere per **iscritto**.
+# Diritti d'autore
+Si dividono in due categorie: 
+- **diritti morali** -> diritti indisponibili, quindi inalienabili e imprescrittibili. I diritti indisponibili sono riconosciuti dalla legge, ma non puoi rinunciare ad essi o trasferirli ad altri. Uno dei diritti morali è il ===diritto di paternità dell'opera===, tuttavia posso pubblicare opere in via anonima o sotto pseudonimo. Davanti alla legge devo in ogni caso essere in grado di dire "questa opera è mia" e non può essere ceduta. Un altro diritto è quello che un autore può opporsi a modifiche dell'opera, oppure se essa viene usata in casi in cui viene liso il suo onore (anche se i diritti di utilizzo sono stati trasferiti legalmente).
+- **diritti patrimoniali** -> sono diritti indipendenti, acquistabili e alienabili. Dentro a questa categoria non ci sono solo i diritti che sono correlati al patrimonio che genera un'opera, infatti anche il *diritto d'uso* è un diritto patrimoniale. Essi hanno una durata definita dalla data di morte dell'autore (colui che detiene la paternità dell'opera), scadono 70 anni dopo.
