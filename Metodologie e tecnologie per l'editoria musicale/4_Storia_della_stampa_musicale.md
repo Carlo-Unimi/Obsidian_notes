@@ -1,0 +1,47 @@
+# Storia della stampa musicale
+> La **notazione**, o **semiografia musicale**, è il sistema che fissa per iscritto una composizione (vedi lezione precedente).
+
+L'**obiettivo della stampa musicale** è riprodurre meccanicamente con precisione e chiarezza la notazione musicale.
+### Invenzione della stampa
+L'invenzione della stampa a caratteri mobili su carta è attribuita al tedesco **Johann Gutenberg** (1448 - 1454). Si ritiene che già i cinesi utilizzassero in precedenza tecniche simili e che, contemporaneamente a Gutenberg, altri stampatori tedeschi, boemi, italiani e olandesi stessero lavorando a qualcosa di simile.
+### La stampa a caratteri mobili
+I cosiddetti **tipi** (da cui *tipografia*) sono piccoli prismi metallici di sezione variabile, su ciascuno dei quali compare in rilievo un carattere. La tecnica di stampa a caratteri mobili consiste nell'allineare i tipi assemblandoli in linee, e unire le linee creando le pagine complete di testo. Ogni matrice relativa a una pagina viene quindi inchiostrata e successivamente stampata con un torchio.
+In un primo momento i tipi erano resi solidali da fasce; per questo, i libri stampati dall'invenzione della stampa fino alla fine del ‘400 vengono detti **incunaboli**, dal latino in cuna (*in culla*, ossia in fasce).
+## Tipografia
+> Si tratta di un **sistema di stampa diretta** che si esegue mediante una matrice a rilievo composta manualmente con **caratteri mobili** oppure realizzata mediante un procedimento di composizione meccanica.
+
+L’invenzione della stampa dei simboli musicali è posteriore a quella delle lettere alfabetiche di circa un ventennio. Questo ritardo è dovuto a:
+- maggiore **difficoltà di riprodurre a stampa i segni della notazione** musicale, intrinsecamente più complicati rispetto ai caratteri alfanumerici
+- maggiore **incertezza riguardo alla notazione rispetto all'alfabeto**, dato che nel XV secolo i glifi musicali e la scrittura in generale sono ancora in evoluzione.
+Gli esemplari di tipografia sono **assemblati a specchio**, da destra a sinistra, e uniti in una *forma*. La pagina viene assicurata a una solida cornice di metallo detta *griglia* per mezzo di cornici interne in legno regolabili chiamate *forniture* e *cunei* (quoins) o, in certi casi, con un meccanismo basato su *dadi* ad *alette*. La forma viene inserita nella stampatrice dalla quale si estraggono i fogli per la correzione delle bozze. Una volta apportate le eventuali correzioni, si procede alla stampa.
+### Alcune difficoltà
+Lo stampatore si trovava di fronte ad alcune difficoltà pratiche: il **numero di copie da stampare**, il **formato dei libri**, e la **carta da usare** (materiale ai tempi costoso, il cui utilizzo andava ottimizzato). 
+Di solito si stampava in quarto o in ottavo, ossia con 4 o 8 fogli creati dal foglio di carta originale ripetutamente piegato, ricavando 8 o 16 pagine di testo, ciascuna con un fronte (recto) e un retro (verso). *Il legatore doveva sapere come piegare i fogli stampati per ottenere la sequenza corretta delle pagine*.
+### Imposizione tipografica
+> L'**imposizione tipografica** è il procedimento che permette di stampare più pagine, disposte in modo opportuno, su un unico foglio.
+
+Il foglio così stampato e poi adeguatamente piegato formerà un fascicolo o segnatura, che insieme con altre segnature costituirà un libro. In teoria, nulla vietava di procedere linearmente di pagina in pagina, come si farebbe nella copiatura di un manoscritto, ma questo avrebbe complicato la gestione dei **bifolii**, che ospitano 4 pagine la cui numerazione in generale non è contigua.
+### Dopo la stampa
+Una volta che il numero di pagine prestabilito viene stampato, **la forma viene ripulita e aperta e i caratteri sono tolti e riposti nei loro contenitori, raggruppati per tipologia**. A seconda del numero di stampe di una bottega e del numero di addetti ai lavori, le forme possono essere preparate in anticipo e i fogli condivisi tra più tipografi e più presse. Le forme chiuse non vengono conservate a lungo, dunque **non esistono ristampe** in senso stretto, anche nel caso in cui il frontespizio rechi diciture come «nuovamente ristampata» o simili. Ogni edizione successiva alla prima va ricostruita da capo, quindi si tratta di qualcosa di diverso da ogni edizione precedente. **L'unica eccezione**: il caso delle *finte* ristampe, dove le pagine stampate in fronte-retro di un’edizione precedente sono collazionate con un nuovo frontespizio (tentativo da parte dello stampatore o dell’editore di svuotare il vecchio magazzino o di dare l’impressione che un determinato titolo sia molto richiesto).
+### Copie di una stessa edizione
+**Non si può garantire che ogni singola copia di una edizione sia identica**. Infatti, le interruzioni in fase di stampa per le correzioni durante la tiratura (stop press) non causano di norma lo scarto delle pagine già stampate. Di conseguenza spesso accade che le copie di uno stesso foglio siano differenti. Una volta ultimata la stampa, i fogli vengono assemblati, ma questo accade senza prestare attenzione alle diverse correzioni fatte durante l'impressione, quindi i fogli di differenti stadi di stampa possono trovarsi distribuiti variamente tra le copie.
+### Compresenza di simboli
+Nasce il **problema dei simboli musicali** (note, chiavi, alterazioni, ecc.) e righi, gli uni sugli altri. Come nei manoscritti, la musica a stampa necessitava di un’attenta sovrapposizione delle note sui righi, all'altezza giusta e con una spaziatura adatta alla lettura.
+Inizialmente si stampava in due colori, con la **notazione nera** e i **righi rossi**. Se i due colori non si sovrapponevano mai, le due parti del testo potevano essere preparate insieme, ciascuna di esse accuratamente inchiostrata col proprio colore, per essere stampate in un’unica soluzione sotto il torchio. In caso contrario, non sarebbe stato possibile preparare e stampare le due parti allo stesso tempo; da qui lo **sviluppo della stampa a doppia impressione**, nella quale i due colori venivano preparati e stampati separatamente.
+### Testo letterario e testo musicale
+Fin verso il 1475 i tipografi cercarono di eludere il **problema della stampa della notazione musicale** stampando la parte alfabetica e lasciando spazi vuoti per la musica; oppure venivano stampati solo i righi musicali e un amanuense inseriva poi le note. Si trattava di un procedimento lungo, costoso e il risultato era poco gradevole: gli inchiostri erano spesso diversi, e l’amanuense doveva riuscire a far stare la parte musicale nello spazio lasciatogli dallo stampatore. Poteva anche capitare che alcune copie non venissero ultimate: ci sono giunti alcuni libri mancanti delle parti musicali. Per questi motivi, **si ricercò il mezzo per stampare anche la notazione musicale**. 
+Ovviamente ci furono molte difficoltà:
+- *presenza del rigo musicale con la necessità di inserire i simboli all'altezza voluta*. Inoltre c’è differenza nel colore: rosso per le linee del rigo, nero per le note.
+- con la notazione mensurale emergono altri problemi: ad esempio *le legature o i differenti colori delle note* (nere, rosse, bianche).
+Il primo criterio adottato dai tipografi **per superare la difficoltà della stampa** della notazione corale pare sia stato quello di **ridurre il rigo a un sistema uniforme di 4 o 5 linee e di unirne un frammento a ogni carattere mobile che riproduceva una nota**.
+### Stampa di testi di teoria musicale
+I libri di teoria musicale richiedevano tecniche di stampa diverse. Durante il Medioevo e il primo Rinascimento le discussioni di teoria musicale poggiavano su **basi aritmetiche**. Di conseguenza, i manoscritti dovevano contenere diagrammi di rapporti e relazioni matematiche e forme geometriche, per cui non si potevano usare i tipi. Si passò all'uso della **xilografia**.
+## Xilografia
+> La **xilografia** (letteralmente *scrittura su legno*), o silografia, è una tecnica di incisione in cui si asportano dalla faccia piana d’una tavoletta di legno o di metallo le parti non costituenti il disegno.
+
+Si usano particolari strumenti come la **sgorbia**, scalpello di forma ricurva e scanalata usato per l’intaglio. La tavoletta viene poi cosparsa di inchiostro e impressa sulla carta: le parti scavate risulteranno bianche, mentre quelle in rilievo saranno nere.
+### Successo della xilografia nella musica
+Questa tecnica era già diffusa largamente in Europa nel XV secolo e molti **libri stampati venivano decorati con disegni o lettere iniziali impressi con blocchi di legno**. I materiali musicali in generale erano semplici e di solito gli esempi da realizzare erano brevi. 
+Gli artigiani disponevano di molti modelli della notazione richiesta da riprodurre tramite xilografia. Se non erano disponibili localmente caratteri tipografici musicali e le conoscenze per usarli, era naturale che lo stampatore si rivolgesse ad uno xilografo, un artigiano del legno, piuttosto che a un compositore di caratteri. *Andrea Antico fu uno dei più importanti stampatori a utilizzare la tecnica xilografica. Egli iniziò la sua attività intorno al 1510, quando pubblicò a Roma un libro di frottole: le Canzoni nove*.
+### Tecniche di stampa miste
+La xilografia è anch'essa una tecnica di stampa in rilievo, come i caratteri mobili. Quindi **è possibile inserire una matrice prodotta con tecnica xilografica all'interno di una forma tipografica che contiene anche caratteri mobili**, inchiostrare e imprimere simultaneamente su carta attraverso una pressa.
