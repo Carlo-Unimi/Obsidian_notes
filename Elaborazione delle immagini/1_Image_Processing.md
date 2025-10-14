@@ -37,3 +37,14 @@ Questa tecnica fa leva sempre sulle *cdf* (moltiplicata per 100) di entrambe le 
 > Per migliorare l'immagine I bisogna rimpiazzare tutte le occorrenze di $G_I$ nell'immagine **I**, con il valore di $G_J$ preso dall'immagine **J**, il cui percentile è quello che più si avvicina a $G_I$ nell'immagine **I**.
 
 ![[Pasted image 20251014143900.png]]
+## Spatial filtering
+> La trasformazione che applichiamo all'immagine tiene conto, per un pixel di output, di un pixel di input e dei **suoi vicini**.
+
+Si riconoscono due famiglie di filtri: **lineari** e **non lineari**.
+$g(x,y)=H(f(x,y))$
+In questo caso, H può ricadere in una delle due famiglie.
+**H è lineare se** dati come input ad H due funzioni, il risultato è uguale alla somma di H(f_1) e H(f_2); inoltre dato H(a per f_1) sarà uguale ad ⋅ H (f_1). Altrimenti non sarà lineare.
+### Lineare
+> Il valore in output di un pixel sarà sostanzialmente una media pesata di un pixel dell'immagine in input + i valori dei pixel intorno ad esso. 
+> I pesi di questa media sono decisi da un **kernel**.
+
