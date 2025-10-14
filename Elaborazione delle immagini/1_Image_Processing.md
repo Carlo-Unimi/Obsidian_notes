@@ -31,3 +31,9 @@ $$
 Quindi con la *cdf* normalizzata, riusciamo a contrastare un'immagine che occupa un piccolo range dinamico dei valori. È l'immagine stessa che ci dice di quanto contrasto ha bisogno, in modo da sfruttare tutto il range dinamico.
 *Un'immagine già ben contrastata, avrà una cdf praticamente lineare.*
 ![[Pasted image 20251009123211.png]]
+## Histogram matching
+Avendo un'immagine rovinata, si cerca di ripararla delegando le caratteristiche del suo miglioramento su un'altra immagine presa come **target**.
+Questa tecnica fa leva sempre sulle *cdf* (moltiplicata per 100) di entrambe le immagini:
+> Per migliorare l'immagine I bisogna rimpiazzare tutte le occorrenze di $G_I$ nell'immagine **I**, con il valore di $G_J$ preso dall'immagine **J**, il cui percentile è quello che più si avvicina a $G_I$ nell'immagine **I**.
+
+![[Pasted image 20251014143900.png]]
