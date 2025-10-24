@@ -56,3 +56,12 @@ Si applica a seconda del luogo in cui il consumatore sta comprando un articolo. 
 
 Il prodotto può anche essere usato, non deve essere per forza nuovo; altrimenti sarebbe inutile avere questo diritto. Il prodotto deve essere restituito completo, anche di confezione.
 Le spese di spedizione possono essere richieste se la spedizione è molto complessa.
+## Fair use (o eccezioni e limitazioni in Italia)
+> Si tratta di delle deroghe al diritto d'autore "automatiche", che consentono un certo tipo di utilizzo di contenuti protetti da copyright
+### Legge sul diritto d'autore, fair use
+#### Art. 65
+Riguarda gli articoli giornalistici di attualità. Questo consente la citazione e riproduzione libera (citando la fonte) di qualsiasi articolo, tranne quelli con la dicitura "riproduzione riservata. Permette quindi la condivisione di notizie rilevanti e importanti dove la diffusione dell'informazione è più rilevante della tutela autoriale.
+#### Art. 69
+Riguarda il prestito eseguito da biblioteche statali, e in generale enti pubblici, i quali possono utilizzare opere protette da diritto d'autore in condizioni di favore. Questi enti possono condividere e prestare contenuti protetti ai fini di promozione culturale e studio personale, e non sono quindi oggetti ad autorizzazione da parte del titolare del relativo diritto.
+#### Art. 70
+Si applica a tutte le opere. Qualsiasi contenuto può essere riutilizzato per finalità di critica, di ricerca e di insegnamento. Questo riguarda un contesto didattico, dove si possono riprodurre filmati, musiche, articoli, libri che sono protetti da diritti d'autore. Oppure l'ambito di ricerca o di critica, che può sia riguardare la scrittura di un articolo di giornale riguardante un particolare prodotto protetto, o per la stesura di una tesi di laurea. L'unico obbligo è l'assenza di lucro, oltre al dover citare l'opera e l'autore.
