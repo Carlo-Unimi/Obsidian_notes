@@ -1,0 +1,23 @@
+# SIAE e l'attività degli intermediari
+Il termine **SIAE** significa **Società Italiana Autori ed Editori**, quindi gli editori sono definiti come società che acquistano i diritti d'autore degli autori per promuovere i loro prodotti.
+Questa associazione nasce in ambito letterario, ma nel tempo di è sempre di più specializzata nell'ambito musicale e audio-visivo: tutte le opere protette da diritto d'autore possono essere disposte in SIAE.
+La SIAE aderisce alla **Confederazione Internazionale degli Autori e Compositori**, portandola a creare rapporti internazionali con società che fanno esattamente la stessa cosa, ma in stati diversi.
+> La *SIAE* è un **ente pubblico-economico** a base associativa.
+
+Il fatto di essere un *ente pubblico* significa che non è una società che persegue scopi di lucro, quindi il suo unico scopo è offrire un **servizio pubblico**; inoltre essa non è una società che può fallire da un giorno ad un altro, a differenza di alcune società private. Sempre per il fatto che è un ente pubblico, anche i margini di guadagno sono più bassi rispetto a quelli di altre società in quanto il rischio di perdita è basso.
+In un'associazione, tutte le persone che ne prendono parte hanno diritto di voto: in SIAE è chiaramente impossibile fare si che per ogni decisioni tutti votino -> per questo è a **base associativa**.
+### Negoziazione dei diritti patrimoniali
+La SIAE si limita a gestire i diritti che hanno gli autori che si sono iscritti alla SIAE, tutte le operazioni che essa svolge sono **regolamentate da leggi**: se io voglio utilizzare un brano di qualcun altro per una mia opera, non contatto l'autore ma contatto la SIAE per gestire i diritti.
+Questo metodo di gestione collettiva ed esclusiva dei diritti era speculare anche in altri stati (come francia, spagna, stati uniti, etc..).
+## Rappresentanza reciproca
+Il patrimonio di opere protette che SIAE gestisce, è del 95% di opere di artisti Italiani (e così vale per ogni stato). Ci si rivolge alla SIAE anche per la gestione dei diritti di opere straniere, perchè negli anni di attività, essa ha sviluppato accordi di **rappresentanza reciproca** -> rappresenta anche tutte le associazioni estere in cui gli autori non italiani registrano la loro opere.
+Questo aspetto rende ad oggi la SIAE in vantaggio rispetto a tutti gli altri, in quanto le dimensioni del catalogo che include tutti gli artisti del mondo è enorme.
+### Piattaforme di streaming
+Quando si parla di piattaforme come Spotify e SIAE, è fondamentale chiarire che **sono le piattaforme di streaming a pagare le _royalties_ alla SIAE, e non viceversa.** La SIAE, in quanto società che gestisce i diritti d'autore in Italia per conto di autori ed editori, concede a Spotify la licenza per utilizzare legalmente il suo vasto catalogo musicale. In cambio di questo permesso, Spotify versa alla SIAE una percentuale significativa dei suoi ricavi generati in Italia (sia dagli abbonamenti Premium che dalla pubblicità). 
+La SIAE raccoglie questi importi e, analizzando i dati di ascolto forniti da Spotify, si occupa poi di distribuire queste somme direttamente agli autori e agli editori delle canzoni che sono state effettivamente riprodotte dagli utenti. Questo meccanismo garantisce che, ogni volta che una traccia viene ascoltata, l'autore riceva un compenso per il suo lavoro.
+### Aspetti generali
+- L'organismo di gestione collettiva scelto è obbligato ad assumere la gestione affidatagli, se questa rientra nel proprio ambito di attività e non sussistono ragioni oggettivamente giustificate per non accettare un artista.
+- I titolari dei diritti, qualora affidino ad un organismo di gestione collettiva o ad un'entità di gestione indipendente la gestione dei proprio diritti, specificano, in forma scritta, quale diritto o categoria di diritto o tipo di opere e altri materiali protetti, affidano alla loro gestione.
+- I titolari dei diritti possono revocare l'affidamento dell'attività di intermediazione da loro concesso, in tutto o in parte, per i territori di loro scelta, con un preavviso non inferiore a quattro medi e non superiore a sei mesi.
+### Società di intermediazione
+Gli organismi di gestione collettiva che concedono licenze multi-territoriali per i diritti su opere musicali online **dispongono di strutture adeguate al trattamento efficiente** e trasparente, per via elettronica, **dei dati necessari alla loro gestione**, anche ai fini della corretta identificazione delle opere musicali incluse nel repertorio e del controllo del loro uso, della fatturazione agli utilizzatori, della riscossione dei proventi dei diritti e della distribuzione degli importi dovuti ai titolari dei diritti.
