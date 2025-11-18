@@ -1,0 +1,5 @@
+# Musica e libertà di espressione
+Libertà di espressione significa anche dipingere una cosa senza essere processato o fare una mostra fotografica su temi scottanti. 
+### Articolo 21 della costituzione
+Esso contiene la libertà di espressione di un individuo. Limite di esercizio di quel diritto è quando violi il diritto di espressione di qualcun’altro o si lede la sua reputazione.
+Il reato descritto sopra è detto di diffamazione (reato è sempre penale, non dipende dal contenitore, è reato a prescindere dal valore sociale che poi viene attribuito). Il reato di ingiuria lede l’onore, diffamazione lede la reputazione. Quando si fa qualcosa online è per definizione diffamazione aggravata. Perché un contenuto sia diffamatorio è del tutto **irrilevante che il fatto che hai detto sia vero o falso**. E’ diffamazione quando non c’è interesse pubblico riguardo a una determinata notizia.
