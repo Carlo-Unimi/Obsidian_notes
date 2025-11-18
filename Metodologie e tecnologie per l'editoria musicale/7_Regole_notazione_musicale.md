@@ -67,7 +67,7 @@ I gruppi irregolari possono essere classificati in base alla loro struttura inte
 * **Complessi**: Gruppi che al loro interno contengono un altro gruppo irregolare (es. una quintina in cui due note sono sostituite da una terzina).
 Un gruppo irregolare può estendersi per una durata variabile, da una frazione di pulsazione fino a un'intera battuta, ma mai oltre.
 #### Determinazione del valore delle note
-Per calcolare il valore ritmico delle note che compongono un gruppo irregolare semplice, si applica una regola precisa. Bisogna **suddividere metricamente la pulsazione che il gruppo occupa** (per multipli di 2) quante più volte possibile, senza però superare il numero di note del gruppo stesso. **Il valore delle note del gruppo irregolare sarà uguale a quello della più piccola suddivisione metrica ottenuta**.
+Per calcolare il valore ritmico delle note che compongono un gruppo irregolare semplice, si applica una regola precisa. Bisogna **suddividere metricamente la pulsazione che il gruppo occupa** (per potenze di 2) quante più volte possibile, senza però superare il numero di note del gruppo stesso. **Il valore delle note del gruppo irregolare sarà uguale a quello della più piccola suddivisione metrica ottenuta**.
 Ad esempio, per una settimina (7 note) che occupa un quarto (una pulsazione in 4/4):
 1. Si divide il quarto in 2, ottenendo due ottavi (2 < 7).
 2. Si divide ulteriormente in 4, ottenendo quattro sedicesimi (4 < 7).
